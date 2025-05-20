@@ -1,0 +1,4 @@
+name = "sckkweb"
+compatibility_flags = ["nodejs_compat"]
+compatibility_date = "2025-04-02"
+pages_build_output_dir = ".svelte-kit/cloudflare"
