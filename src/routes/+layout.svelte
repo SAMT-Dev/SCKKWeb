@@ -29,7 +29,7 @@
 		<a href="/">Névjegy</a>
 		<a href="/">Áraink</a>
 		<a href="/">Jelentkezés</a>
-		<a href="/">SAMT UCP</a>
+		<a href="https://samt.hu">SAMT UCP</a>
 	</div>
 </header>
 
