@@ -41,7 +41,9 @@
 			class:text-taxi={page.url.pathname === '/prices'}
 			href="/prices">Áraink</a
 		>
-		<a class="hover:text-taxi transition-all duration-200" href="/jelentkezes">Jelentkezés</a>
+		<a class="hover:text-taxi transition-all duration-200" href="/jelentkezes" target="_blank"
+			>Jelentkezés</a
+		>
 		<a class="text-rose-500 transition-all duration-200 hover:text-red-400" href="https://samt.hu"
 			>SAMT</a
 		>
