@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { page } from '$app/state';
 	import '../app.css';
 
 	let { children } = $props();
@@ -15,7 +16,7 @@
 </svelte:head>
 
 <div
-	class="absolute top-1/2 left-1/2 -z-50 h-[100%] w-[100%] -translate-x-1/2 -translate-y-1/2 overflow-hidden bg-black bg-[url(/backgrounds/bg-1.png)] bg-cover bg-no-repeat"
+	class="absolute top-1/2 left-1/2 -z-50 h-[100%] w-[100%] -translate-x-1/2 -translate-y-1/2 overflow-hidden bg-black bg-[url(/backgrounds/bg-2.png)] bg-cover bg-no-repeat"
 ></div>
 
 <header
@@ -25,12 +26,28 @@
 	<div
 		class="font-montserrat flex items-center justify-center gap-4 text-center font-bold text-white uppercase lg:gap-8 lg:text-xl xl:gap-12"
 	>
-		<a href="/">Főoldal</a>
-		<a href="/">Névjegy</a>
-		<a href="/">Áraink</a>
-		<a href="/">Jelentkezés</a>
-		<a href="https://samt.hu">SAMT UCP</a>
+		<a
+			class="hover:text-taxi transition-all duration-200"
+			class:text-taxi={page.url.pathname === '/'}
+			href="/">Főoldal</a
+		>
+		<a
+			class="hover:text-taxi transition-all duration-200"
+			class:text-taxi={page.url.pathname === '/info'}
+			href="/info">Névjegy</a
+		>
+		<a
+			class="hover:text-taxi transition-all duration-200"
+			class:text-taxi={page.url.pathname === '/prices'}
+			href="/prices">Áraink</a
+		>
+		<a class="hover:text-taxi transition-all duration-200" href="/jelentkezes">Jelentkezés</a>
+		<a class="text-rose-500 transition-all duration-200 hover:text-red-400" href="https://samt.hu"
+			>SAMT</a
+		>
 	</div>
 </header>
 
 {@render children()}
+
+<h1 class="font-nunito absolute right-2 bottom-2 font-medium text-white">2025 - sckk.hu</h1>
