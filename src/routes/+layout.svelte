@@ -22,7 +22,9 @@
 <header
 	class="4xl:px-[20dvw] flex items-center justify-between gap-4 bg-black/70 px-8 py-2 lg:px-[8dvw]"
 >
-	<img src="/base.png" alt="sckk_poster" class="pointer-events-none w-[300px] lg:w-[450px]" />
+	<a href="/">
+		<img src="/base.png" alt="sckk_poster" class="pointer-events-none w-[300px] lg:w-[450px]" />
+	</a>
 	<div
 		class="font-montserrat flex items-center justify-center gap-4 text-center font-bold text-white uppercase lg:gap-8 lg:text-xl xl:gap-12"
 	>
