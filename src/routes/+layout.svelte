@@ -31,7 +31,7 @@
 ></div>
 
 <header
-	class="4xl:px-[20dvw] z-50 grid grid-cols-2 items-center justify-between gap-4 bg-black/70 px-2 py-2 md:px-8 lg:flex lg:px-[8dvw]"
+	class="4xl:px-[20dvw] z-50 grid grid-cols-2 items-center justify-between gap-4 bg-black/70 px-2 py-2 md:px-8 xl:flex 2xl:px-[8dvw]"
 >
 	<a href="/">
 		<img
@@ -46,14 +46,14 @@
 	</a>
 	<button
 		aria-label="mv-menu"
-		class="hover:text-taxi flex cursor-pointer justify-self-end text-3xl font-semibold text-white transition-all duration-200 lg:hidden"
+		class="hover:text-taxi flex cursor-pointer justify-self-end text-3xl font-semibold text-white transition-all duration-200 xl:hidden"
 		onclick={tognav}
 	>
 		<span class="icon-[material-symbols--menu]"></span>
 	</button>
 	<div
 		bind:this={nav}
-		class="font-montserrat col-span-2 hidden flex-col items-center justify-center gap-4 text-center font-bold text-white uppercase lg:flex lg:flex-row lg:gap-8 lg:text-xl xl:gap-12"
+		class="font-montserrat col-span-2 hidden flex-col items-center justify-center gap-4 text-center font-bold text-white uppercase lg:gap-8 lg:text-xl xl:flex xl:flex-row 2xl:gap-12"
 	>
 		<a
 			class="hover:text-taxi transition-all duration-200"

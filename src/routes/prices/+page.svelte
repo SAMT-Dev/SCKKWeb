@@ -13,7 +13,7 @@
 </svelte:head>
 
 <div
-	class="border-taxi font-montserrat absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-3xl border-2 bg-black/45 p-8 text-center text-white"
+	class="border-taxi font-montserrat absolute top-1/2 left-1/2 -z-10 -translate-x-1/2 -translate-y-1/2 rounded-3xl border-2 bg-black/45 p-8 text-center text-white"
 >
 	<h1 class="text-taxi font-nunito text-5xl font-bold xl:text-3xl">Áraink</h1>
 	<div class="flex gap-8">
