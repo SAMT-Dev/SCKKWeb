@@ -82,7 +82,7 @@
 {@render children()}
 
 <h1
-	class="font-nunito pointer-events-none absolute right-2 bottom-2 cursor-move font-medium text-white select-none"
+	class="font-nunito pointer-events-none fixed bottom-2 left-1/2 -translate-x-1/2 cursor-move text-center font-medium text-white select-none text-shadow-black text-shadow-lg"
 >
-	2025 - sckk.hu
+	Fiktív játékbeli vállalkozás | © {new Date().getFullYear()} See City Közlekedési Központ
 </h1>
