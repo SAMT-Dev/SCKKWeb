@@ -4,15 +4,19 @@
 	let { data }: { data: PageData } = $props();
 </script>
 
+<svelte:head>
+	<title>Névjegy - SCKK</title>
+</svelte:head>
+
 <div
-	class="3xl:w-[30dvw] border-taxi absolute top-1/2 left-1/2 -z-10 flex w-[90dvw] -translate-x-1/2 -translate-y-1/2 flex-col gap-8 rounded-3xl border-2 bg-black/45 p-8 text-center xl:w-[50dvw] 2xl:w-[40dvw]"
+	class="3xl:w-[30dvw] border-taxi -z-10 mx-auto mt-4 flex w-[90dvw] flex-col gap-8 rounded-3xl border-2 bg-black/45 p-8 text-center xl:w-[50dvw] 2xl:w-[40dvw]"
 >
 	<div>
 		<h2 class="font-montserrat text-taxi text-xl font-light xl:text-[40px]">
 			Telephely: 1121, See City, El Corona 1
 		</h2>
 	</div>
-	<div class="flex items-start justify-center gap-8">
+	<div class="flex flex-col items-center justify-center gap-2 lg:flex-row lg:items-start lg:gap-8">
 		<div class="flex flex-col items-center gap-2">
 			<img src="/pics/diego_portrait.png" class="pointer-events-none w-64 select-none" alt="" />
 			<div>

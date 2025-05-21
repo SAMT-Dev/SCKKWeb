@@ -4,6 +4,10 @@
 	let { data }: { data: PageData } = $props();
 </script>
 
+<svelte:head>
+	<title>Áraink - SCKK</title>
+</svelte:head>
+
 <div
 	class="border-taxi font-montserrat absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-3xl border-2 bg-black/45 p-8 text-center text-white"
 >
