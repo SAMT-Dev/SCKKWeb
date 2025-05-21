@@ -6,6 +6,10 @@
 
 <svelte:head>
 	<title>Áraink - SCKK</title>
+	<meta name="description" content="SCKK - Áraink" />
+	<meta content="See City Közlekedési Központ" property="og:title" />
+	<meta content="/prices" property="og:url" />
+	<meta content="SCKK - Áraink" property="og:description" />
 </svelte:head>
 
 <div

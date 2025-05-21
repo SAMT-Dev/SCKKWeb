@@ -6,6 +6,10 @@
 
 <svelte:head>
 	<title>Névjegy - SCKK</title>
+	<meta name="description" content="SCKK - Névjegy" />
+	<meta content="See City Közlekedési Központ" property="og:title" />
+	<meta content="/info" property="og:url" />
+	<meta content="SCKK - Névjegy" property="og:description" />
 </svelte:head>
 
 <div

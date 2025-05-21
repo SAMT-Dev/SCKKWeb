@@ -18,10 +18,10 @@
 
 <svelte:head>
 	<title>See City Közlekedési Központ</title>
-	<meta name="description" content="A See City Közlekedési Központ weboldala." />
-	<meta content="SCKK Weboldal" property="og:title" />
+	<meta name="description" content="SCKK - Veled, minden úton!" />
+	<meta content="See City Közlekedési Központ" property="og:title" />
 	<meta content="/" property="og:url" />
-	<meta content="A See City Közlekedési Központ weboldala." property="og:description" />
+	<meta content="SCKK - Veled, minden úton!" property="og:description" />
 	<meta content="/favicon.png" property="og:image" />
 	<meta content="#fece01" data-react-helmet="true" name="theme-color" />
 </svelte:head>
@@ -73,8 +73,10 @@
 		<a class="hover:text-taxi transition-all duration-200" href="/jelentkezes" target="_blank"
 			>Jelentkezés</a
 		>
+		<a class="hover:text-taxi transition-all duration-200" href="/pk" target="_blank">Panaszkönyv</a
+		>
 		<a class="text-rose-500 transition-all duration-200 hover:text-red-400" href="https://samt.hu"
-			>SAMT</a
+			>Belépés</a
 		>
 	</div>
 </header>
