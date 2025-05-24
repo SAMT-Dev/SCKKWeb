@@ -38,11 +38,11 @@
 			</div>
 		</div>
 		<div class="flex flex-col items-center gap-2">
-			<img src="/pics/john_hanrick.png" class="pointer-events-none w-64 select-none" alt="" />
+			<img src="/pics/hanrick_portrait.png" class="pointer-events-none w-64 select-none" alt="" />
 			<div>
 				<h2 class="font-nunito text-taxi text-xl font-bold">Gazdasági igazgató</h2>
 				<h2 class="font-montserrat font-light text-white">John Hanrick</h2>
-				<h2 class="font-montserrat font-light text-white">-</h2>
+				<h2 class="font-montserrat font-light text-white">+38-76-972-6825</h2>
 			</div>
 		</div>
 	</div>
