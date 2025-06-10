@@ -70,7 +70,7 @@
 			class:text-taxi={page.url.pathname === '/prices'}
 			href="/prices">Áraink</a
 		>
-		<a class="hover:text-taxi transition-all duration-200" href="/jelentkezes" target="_blank"
+		<a class="hover:text-taxi transition-all duration-200" href="/tgf" target="_blank"
 			>Jelentkezés</a
 		>
 		<a class="hover:text-taxi transition-all duration-200" href="/pk" target="_blank">Panaszkönyv</a
