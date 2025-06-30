@@ -70,6 +70,11 @@
 			class:text-taxi={page.url.pathname === '/prices'}
 			href="/prices">Áraink</a
 		>
+		<a
+			class="hover:text-taxi transition-all duration-200"
+			class:text-taxi={page.url.pathname === '/vip'}
+			href="/vip">VIP</a
+		>
 		<a class="hover:text-taxi transition-all duration-200" href="/tgf" target="_blank"
 			>Jelentkezés</a
 		>
