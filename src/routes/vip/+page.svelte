@@ -24,7 +24,7 @@
 				class="text-taxi font-montserrat font-bold">KATT</a
 			>
 		</h2>
-		<a class="font-nunito text-taxi mt-2 text-xl font-bold uppercase" href="/vip-now"
+		<a class="font-nunito text-taxi mt-2 text-xl font-bold uppercase" href="/vip-minta"
 			>Igényelj még ma!</a
 		>
 	</div>
