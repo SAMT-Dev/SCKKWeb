@@ -82,4 +82,5 @@
 			<h2 class="font-poppins text-2xl font-bold text-green-500">200.000$/hét</h2>
 		</div>
 	</div>
+	<h1 class="text-gray-400">Utoljára módosítva: 2025.07.01.</h1>
 </div>

@@ -4,14 +4,14 @@
 
 	let { children } = $props();
 
-	let nav: HTMLDivElement = $state()!;
+	let navcucc: HTMLElement = $state()!;
 	const tognav = () => {
-		if (nav.classList.contains('hidden')) {
-			nav.classList.remove('hidden');
-			nav.classList.add('flex');
+		if (navcucc.classList.contains('hidden')) {
+			navcucc.classList.remove('hidden');
+			navcucc.classList.add('flex');
 		} else {
-			nav.classList.remove('flex');
-			nav.classList.add('hidden');
+			navcucc.classList.remove('flex');
+			navcucc.classList.add('hidden');
 		}
 	};
 </script>
@@ -26,12 +26,12 @@
 	<meta content="#fece01" data-react-helmet="true" name="theme-color" />
 </svelte:head>
 
-<div
+<!-- <div
 	class="absolute top-1/2 left-1/2 -z-50 h-[100%] w-[100%] -translate-x-1/2 -translate-y-1/2 overflow-hidden bg-black bg-[url(/backgrounds/bg-2.png)] bg-cover bg-no-repeat"
-></div>
+></div> -->
 
 <header
-	class="4xl:px-[20dvw] z-50 grid grid-cols-2 items-center justify-between gap-4 bg-black/70 px-2 py-2 md:px-8 xl:flex 2xl:px-[8dvw]"
+	class="4xl:px-[20dvw] fixed top-0 z-50 grid w-full grid-cols-2 items-center justify-between gap-4 bg-black/70 px-2 py-2 md:px-8 xl:flex 2xl:px-[8dvw]"
 >
 	<a href="/">
 		<img
@@ -51,8 +51,8 @@
 	>
 		<span class="icon-[material-symbols--menu]"></span>
 	</button>
-	<div
-		bind:this={nav}
+	<nav
+		bind:this={navcucc}
 		class="font-montserrat col-span-2 hidden flex-col items-center justify-center gap-4 text-center font-bold text-white uppercase lg:gap-8 lg:text-xl xl:flex xl:flex-row 2xl:gap-12"
 	>
 		<a
@@ -83,13 +83,15 @@
 		<a class="text-rose-500 transition-all duration-200 hover:text-red-400" href="https://samt.hu"
 			>Belépés</a
 		>
-	</div>
+	</nav>
 </header>
-
-{@render children()}
-
-<h1
-	class="font-nunito pointer-events-none fixed bottom-2 left-1/2 -translate-x-1/2 cursor-move text-center font-medium text-white select-none text-shadow-black text-shadow-lg"
+<div class="mt-20 pb-16">
+	{@render children()}
+</div>
+<footer
+	class="font-nunito pointer-events-none fixed bottom-0 mt-2 w-full cursor-move bg-emerald-700 py-2 text-center font-medium text-white select-none text-shadow-black text-shadow-lg"
 >
-	Fiktív játékbeli vállalkozás | © {new Date().getFullYear()} See City Közlekedési Központ
-</h1>
+	<h1>
+		Fiktív játékbeli vállalkozás | © {new Date().getFullYear()} See City Közlekedési Központ
+	</h1>
+</footer>
