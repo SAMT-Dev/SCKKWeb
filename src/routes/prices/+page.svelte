@@ -17,7 +17,6 @@
 >
 	<h1 class="text-taxi font-nunito text-5xl font-bold xl:text-3xl">Áraink</h1>
 	<div class="flex gap-8">
-		<div class="flex flex-col items-center gap-2">
 			<div>
 				<h2 class="font-bold">15:00 - 22:00</h2>
 				<h2 class="font-light">2500 $/km, 350 $/perc</h2>
@@ -26,7 +25,6 @@
 				<h2 class="font-bold">Idősávokon kívül</h2>
 				<h2 class="font-light">4000 $/km, 400 $/perc</h2>
 			</div>
-		</div>
 		<h1 class="text-gray-400">Utoljára módosítva: 2025.07.03.</h1>
 	</div>
 </div>
