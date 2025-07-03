@@ -40,7 +40,7 @@
 			class="pointer-events-none hidden w-[300px] select-none sm:block lg:w-[450px]"
 		/>
 		<div class="flex items-center gap-2 sm:hidden">
-			<img src="/favicon.png" alt="" class="pointer-events-none h-[30px]" />
+			<img src="/favicon.png" alt="" class="pointer-events-none" width="30px" height="30px" />
 			<h1 class="font-nunito text-xl font-bold text-white">SCKK</h1>
 		</div>
 	</a>
@@ -91,7 +91,7 @@
 <footer
 	class="font-nunito fixed bottom-0 mt-2 w-full bg-emerald-700 py-2 text-center font-medium text-white"
 >
-<h1>Fiktív játékbeli vállalkozás</h1>
+	<h1>Fiktív játékbeli vállalkozás</h1>
 	<h1>
 		© 2016-{new Date().getFullYear()} See City Közlekedési Központ
 	</h1>
