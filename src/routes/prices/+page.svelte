@@ -19,11 +19,13 @@
 	<div class="flex gap-2">
 			<div>
 				<h2 class="font-bold">15:00 - 22:00</h2>
-				<h2 class="font-light">2500 $/km, 350 $/perc</h2>
+				<h2 class="font-light">2500 $/km</h2>
+				<h2 class="font-light">350 $/perc</h2>
 			</div>
 			<div>
 				<h2 class="font-bold">Idősávokon kívül</h2>
-				<h2 class="font-light">4000 $/km, 400 $/perc</h2>
+				<h2 class="font-light">4000 $/km</h2>
+				<h2 class="font-light">400 $/perc</h2>
 			</div>
 		</div>
 		<h1 class="text-gray-400 mt-4">Utoljára módosítva: 2025.07.03.</h1>

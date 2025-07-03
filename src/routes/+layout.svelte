@@ -93,6 +93,6 @@
 >
 <h1>Fiktív játékbeli vállalkozás</h1>
 	<h1>
-		© {new Date().getFullYear()} See City Közlekedési Központ
+		© 2016-{new Date().getFullYear()} See City Közlekedési Központ
 	</h1>
 </footer>
