@@ -91,7 +91,8 @@
 <footer
 	class="font-nunito fixed bottom-0 mt-2 w-full bg-emerald-700 py-2 text-center font-medium text-white"
 >
+<h1>Fiktív játékbeli vállalkozás</h1>
 	<h1>
-		Fiktív játékbeli vállalkozás | © {new Date().getFullYear()} See City Közlekedési Központ
+		F© {new Date().getFullYear()} See City Közlekedési Központ
 	</h1>
 </footer>
