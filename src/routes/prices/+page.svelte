@@ -25,6 +25,6 @@
 				<h2 class="font-bold">Idősávokon kívül</h2>
 				<h2 class="font-light">4000 $/km, 400 $/perc</h2>
 			</div>
+		</div>
 		<h1 class="text-gray-400">Utoljára módosítva: 2025.07.03.</h1>
-	</div>
 </div>
