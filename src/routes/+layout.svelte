@@ -89,7 +89,7 @@
 	{@render children()}
 </div>
 <footer
-	class="font-nunito pointer-events-none fixed bottom-0 mt-2 w-full cursor-move bg-emerald-700 py-2 text-center font-medium text-white select-none text-shadow-black text-shadow-lg"
+	class="font-nunito fixed bottom-0 mt-2 w-full bg-emerald-700 py-2 text-center font-medium text-white"
 >
 	<h1>
 		Fiktív játékbeli vállalkozás | © {new Date().getFullYear()} See City Közlekedési Központ
