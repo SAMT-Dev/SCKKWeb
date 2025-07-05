@@ -23,7 +23,7 @@
 			<h2 class="text-lg font-light">350 $/perc</h2>
 		</div>
 		<div>
-			<h2 class="text-xl font-bold">Idősávokon kívül</h2>
+			<h2 class="text-xl font-bold">Idősávon kívül</h2>
 			<h2 class="text-lg font-light">4000 $/km</h2>
 			<h2 class="text-lg font-light">400 $/perc</h2>
 		</div>
