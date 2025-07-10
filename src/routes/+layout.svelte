@@ -30,6 +30,14 @@
 	class="absolute top-1/2 left-1/2 -z-50 h-[100%] w-[100%] -translate-x-1/2 -translate-y-1/2 overflow-hidden bg-black bg-[url(/backgrounds/bg-2.png)] bg-cover bg-no-repeat"
 ></div> -->
 
+<a
+	href="https://seeweb.hu"
+	target="_blank"
+	class="absolute top-1/2 left-6 -z-40 hidden -translate-y-1/2 lg:block"
+>
+	<img src="/seeweb.png" alt="" width="200px" class="rounded-xl border-4 border-white" />
+</a>
+
 <header
 	class="4xl:px-[20dvw] fixed top-0 z-50 grid w-full grid-cols-2 items-center justify-between gap-4 bg-black/70 px-2 py-2 md:px-8 xl:flex 2xl:px-[8dvw]"
 >
@@ -93,6 +101,11 @@
 >
 	<h1>Fiktív játékbeli vállalkozás</h1>
 	<h1>
-		© 2016-{new Date().getFullYear()} See City Közlekedési Központ
+		© 2016-{new Date().getFullYear()} See City Közlekedési Központ,
 	</h1>
+	<h2>
+		Támogatója a <a href="https://seeweb.hu" target="_blank" class="font-bold text-[#4dd097]"
+			>SeeWEB</a
+		>.
+	</h2>
 </footer>
