@@ -22,7 +22,13 @@
 	</div>
 	<div class="flex flex-col items-center justify-center gap-2 lg:flex-row lg:items-start lg:gap-8">
 		<div class="flex flex-col items-center gap-2">
-			<img src="/pics/diego_portrait.png" class="pointer-events-none w-64 select-none" alt="" />
+			<img
+				width="256px"
+				height="384px"
+				src="/pics/diego_portrait.png"
+				class="pointer-events-none select-none"
+				alt=""
+			/>
 			<div>
 				<h2 class="font-nunito text-taxi text-xl font-bold">Vezérigazgató</h2>
 				<h2 class="font-poppins font-light text-white">Diego M Perez</h2>
@@ -30,7 +36,13 @@
 			</div>
 		</div>
 		<div class="flex flex-col items-center gap-2">
-			<img src="/pics/kevin_portrait.png" class="pointer-events-none w-64 select-none" alt="" />
+			<img
+				width="256px"
+				height="384px"
+				src="/pics/kevin_portrait.png"
+				class="pointer-events-none select-none"
+				alt=""
+			/>
 			<div>
 				<h2 class="font-nunito text-taxi text-xl font-bold">Vezérigazgató-helyettes</h2>
 				<h2 class="font-poppins font-light text-white">Kevin Styles</h2>
@@ -38,7 +50,13 @@
 			</div>
 		</div>
 		<div class="flex flex-col items-center gap-2">
-			<img src="/pics/hanrick_portrait.png" class="pointer-events-none w-64 select-none" alt="" />
+			<img
+				width="256px"
+				height="384px"
+				src="/pics/hanrick_portrait.png"
+				class="pointer-events-none select-none"
+				alt=""
+			/>
 			<div>
 				<h2 class="font-nunito text-taxi text-xl font-bold">Gazdasági igazgató</h2>
 				<h2 class="font-montserrat font-light text-white">John Hanrick</h2>

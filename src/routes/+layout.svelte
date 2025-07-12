@@ -46,6 +46,8 @@
 			src="/base.png"
 			alt="sckk_poster"
 			class="pointer-events-none hidden w-[300px] select-none sm:block lg:w-[450px]"
+			width="300px"
+			height="2600px"
 		/>
 		<div class="flex items-center gap-2 sm:hidden">
 			<img src="/favicon.png" alt="" class="pointer-events-none" width="30px" height="30px" />
