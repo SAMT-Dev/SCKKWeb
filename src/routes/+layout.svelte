@@ -35,7 +35,13 @@
 	target="_blank"
 	class="absolute top-1/2 left-6 -z-40 hidden -translate-y-1/2 lg:block"
 >
-	<img src="/seeweb.png" alt="" width="200px" class="rounded-xl border-4 border-white" />
+	<img
+		src="/seeweb.png"
+		alt=""
+		width="200px"
+		height="388px"
+		class="rounded-xl border-4 border-white"
+	/>
 </a>
 
 <header
@@ -47,7 +53,7 @@
 			alt="sckk_poster"
 			class="pointer-events-none hidden w-[300px] select-none sm:block lg:w-[450px]"
 			width="300px"
-			height="2600px"
+			height="34px"
 		/>
 		<div class="flex items-center gap-2 sm:hidden">
 			<img src="/favicon.png" alt="" class="pointer-events-none" width="30px" height="30px" />
