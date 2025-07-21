@@ -19,6 +19,7 @@
 		<h2 class="font-montserrat text-taxi text-xl font-light xl:text-[40px]">
 			Telephely: 1121, See City, El Corona 1
 		</h2>
+		<h2 class="text-taxi text-xl font-bold">Vezetőség</h2>
 	</div>
 	<div class="flex flex-col items-center justify-center gap-2 lg:flex-row lg:items-start lg:gap-8">
 		<div class="flex flex-col items-center gap-2">
@@ -33,6 +34,11 @@
 				<h2 class="font-nunito text-taxi text-xl font-bold">Vezérigazgató</h2>
 				<h2 class="font-poppins font-light text-white">Diego M Perez</h2>
 				<h2 class="font-poppins font-light text-white">+38-76-509-8320</h2>
+				<a
+					target="_blank"
+					href="https://forum.see-game.com/members/4468/"
+					class="text-taxi font-nunito font-bold">Weboldal</a
+				>
 			</div>
 		</div>
 		<div class="flex flex-col items-center gap-2">
@@ -47,6 +53,11 @@
 				<h2 class="font-nunito text-taxi text-xl font-bold">Vezérigazgató-helyettes</h2>
 				<h2 class="font-poppins font-light text-white">Kevin Styles</h2>
 				<h2 class="font-poppins font-light text-white">+38-76-615-2768</h2>
+				<a
+					target="_blank"
+					href="https://forum.see-game.com/members/20749/"
+					class="text-taxi font-nunito font-bold">Weboldal</a
+				>
 			</div>
 		</div>
 		<div class="flex flex-col items-center gap-2">
@@ -61,6 +72,79 @@
 				<h2 class="font-nunito text-taxi text-xl font-bold">Gazdasági igazgató</h2>
 				<h2 class="font-montserrat font-light text-white">John Hanrick</h2>
 				<h2 class="font-montserrat font-light text-white">+38-76-972-6825</h2>
+				<a
+					target="_blank"
+					href="https://forum.see-game.com/members/17555/"
+					class="text-taxi font-nunito font-bold">Weboldal</a
+				>
+			</div>
+		</div>
+	</div>
+	<div>
+		<h2 class="text-taxi text-xl font-bold">Részlegvezetők</h2>
+	</div>
+	<div class="flex flex-col items-center justify-center gap-2 lg:flex-row lg:items-start lg:gap-8">
+		<div class="flex flex-col items-center gap-2">
+			<img
+				width="256px"
+				height="384px"
+				src="/pics/ronan_portrait.png"
+				class="pointer-events-none select-none"
+				alt=""
+			/>
+			<div>
+				<h2 class="font-nunito text-taxi max-w-[256px] text-xl font-bold">
+					Személyszállítás Részlegvezető
+				</h2>
+				<h2 class="font-poppins font-light text-white">Ronan Styles</h2>
+				<h2 class="font-poppins font-light text-white">+38-76-664-1064</h2>
+				<a
+					target="_blank"
+					href="https://forum.see-game.com/members/10990/"
+					class="text-taxi font-nunito font-bold">Weboldal</a
+				>
+			</div>
+		</div>
+		<div class="flex flex-col items-center gap-2">
+			<img
+				width="256px"
+				height="384px"
+				src="/pics/roberto_portrait.png"
+				class="pointer-events-none select-none"
+				alt=""
+			/>
+			<div>
+				<h2 class="font-nunito text-taxi max-w-[256px] text-xl font-bold">
+					Akadémia Részlegvezető
+				</h2>
+				<h2 class="font-poppins font-light text-white">Roberto Mendez</h2>
+				<h2 class="font-poppins font-light text-white">+38-77-943-9815</h2>
+				<a
+					target="_blank"
+					href="https://forum.see-game.com/members/61882/"
+					class="text-taxi font-nunito font-bold">Weboldal</a
+				>
+			</div>
+		</div>
+		<div class="flex flex-col items-center gap-2">
+			<img
+				width="256px"
+				height="384px"
+				src="/pics/cody_portrait.png"
+				class="pointer-events-none select-none"
+				alt=""
+			/>
+			<div>
+				<h2 class="font-nunito text-taxi max-w-[256px] text-xl font-bold">
+					Akadémia Részlegvezető-helyettes
+				</h2>
+				<h2 class="font-montserrat font-light text-white">Cody Lewis</h2>
+				<h2 class="font-montserrat font-light text-white">+38-77-249-2175</h2>
+				<a
+					target="_blank"
+					href="https://forum.see-game.com/members/414/"
+					class="text-taxi font-nunito font-bold">Weboldal</a
+				>
 			</div>
 		</div>
 	</div>
