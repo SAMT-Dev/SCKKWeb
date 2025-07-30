@@ -109,34 +109,13 @@
 			<img
 				width="256px"
 				height="384px"
-				src="/pics/roberto_portrait.png"
-				class="pointer-events-none select-none"
-				alt=""
-			/>
-			<div>
-				<h2 class="font-nunito text-taxi max-w-[256px] text-xl font-bold">
-					Akadémia Részlegvezető
-				</h2>
-				<h2 class="font-poppins font-light text-white">Roberto Mendez</h2>
-				<h2 class="font-poppins font-light text-white">+38-77-943-9815</h2>
-				<a
-					target="_blank"
-					href="https://forum.see-game.com/members/61882/"
-					class="text-taxi font-nunito font-bold">Weboldal</a
-				>
-			</div>
-		</div>
-		<div class="flex flex-col items-center gap-2">
-			<img
-				width="256px"
-				height="384px"
 				src="/pics/cody_portrait.png"
 				class="pointer-events-none select-none"
 				alt=""
 			/>
 			<div>
 				<h2 class="font-nunito text-taxi max-w-[256px] text-xl font-bold">
-					Akadémia Részlegvezető-helyettes
+					Akadémia Részlegvezető
 				</h2>
 				<h2 class="font-montserrat font-light text-white">Cody Lewis</h2>
 				<h2 class="font-montserrat font-light text-white">+38-77-249-2175</h2>
