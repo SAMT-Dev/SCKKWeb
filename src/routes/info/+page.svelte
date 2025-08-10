@@ -19,7 +19,6 @@
 		<h2 class="font-montserrat text-taxi text-xl font-light xl:text-[40px]">
 			Telephely: 1121, See City, El Corona 1
 		</h2>
-		<h2 class="text-taxi text-xl font-bold">Vezetőség</h2>
 	</div>
 	<div class="flex flex-col items-center justify-center gap-2 lg:flex-row lg:items-start lg:gap-8">
 		<div class="flex flex-col items-center gap-2">
@@ -80,9 +79,6 @@
 			</div>
 		</div>
 	</div>
-	<div>
-		<h2 class="text-taxi text-xl font-bold">Részlegvezetők</h2>
-	</div>
 	<div class="flex flex-col items-center justify-center gap-2 lg:flex-row lg:items-start lg:gap-8">
 		<div class="flex flex-col items-center gap-2">
 			<img
@@ -94,7 +90,7 @@
 			/>
 			<div>
 				<h2 class="font-nunito text-taxi max-w-[256px] text-xl font-bold">
-					Személyszállítás Részlegvezető
+					Személyszállítás részlegvezető
 				</h2>
 				<h2 class="font-poppins font-light text-white">Ronan Styles</h2>
 				<h2 class="font-poppins font-light text-white">+38-76-664-1064</h2>
@@ -115,7 +111,7 @@
 			/>
 			<div>
 				<h2 class="font-nunito text-taxi max-w-[256px] text-xl font-bold">
-					Akadémia Részlegvezető
+					Akadémia részlegvezető
 				</h2>
 				<h2 class="font-montserrat font-light text-white">Cody Lewis</h2>
 				<h2 class="font-montserrat font-light text-white">+38-77-249-2175</h2>
