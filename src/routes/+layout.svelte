@@ -112,7 +112,7 @@
 		© 2016-{new Date().getFullYear()} See City Közlekedési Központ,
 	</h1>
 	<h2>
-		Támogatója a <a href="https://seeweb.hu" target="_blank" class="font-bold text-[#4dd097]"
+		Szolgáltatja a <a href="https://seeweb.hu" target="_blank" class="font-bold text-[#4dd097]"
 			>SeeWEB</a
 		>.
 	</h2>
