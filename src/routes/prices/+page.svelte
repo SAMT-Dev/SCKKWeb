@@ -19,17 +19,17 @@
 	<div class="mt-2 flex w-full justify-around gap-2">
 		<div>
 			<h2 class="text-xl font-bold">15:00 - 22:00</h2>
-			<h2 class="text-lg font-light">2500 $/km</h2>
+			<h2 class="text-lg font-light">3000 $/km</h2>
 			<h2 class="text-lg font-light">350 $/perc</h2>
 		</div>
 		<div>
 			<h2 class="text-xl font-bold">Idősávon kívül</h2>
-			<h2 class="text-lg font-light">4000 $/km</h2>
+			<h2 class="text-lg font-light">4500 $/km</h2>
 			<h2 class="text-lg font-light">400 $/perc</h2>
 		</div>
 	</div>
 	<h1 class="mt-4">
 		Olcsóbb taxizás? A <a class="text-taxi font-bold" href="/vip">VIP</a> szolgáltatásainkkal lehetséges!
 	</h1>
-	<h1 class="mt-1 text-gray-400">Utoljára módosítva: 2025.07.03.</h1>
+	<h1 class="mt-1 text-gray-400">Utoljára módosítva: 2025.08.18.</h1>
 </div>
