@@ -126,13 +126,13 @@
 			<img
 				width="256px"
 				height="384px"
-				src="/pics/nathan_scaled.png"
+				src="/pics/emily_scaled.png"
 				class="pointer-events-none select-none"
 				alt=""
 			/>
 			<div>
 				<h2 class="font-nunito text-taxi max-w-[256px] text-xl font-bold">Ügyfélreferens</h2>
-				<h2 class="font-montserrat font-light text-white">Nathan Trindade</h2>
+				<h2 class="font-montserrat font-light text-white">Emily Styles</h2>
 				<h2 class="font-montserrat font-light text-white">+38-76-978-6506</h2>
 				<a
 					target="_blank"
